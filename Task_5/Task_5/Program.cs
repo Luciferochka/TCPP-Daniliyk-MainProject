@@ -9,7 +9,9 @@ namespace Task_5
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World from browser!");
             Console.WriteLine("Hello World from IDE");
+            //конфлікт вирішено 06.05
         }
     }
 }
