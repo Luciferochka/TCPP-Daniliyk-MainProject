@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TCPP-Daniliyk-MainProject\\Task_5\\Task_5\\Task_5.csproj",
+      "projectUniqueName": "D:\\Miro\\TCPP-Daniliyk-MainProject\\Task_5\\Task_5\\Task_5.csproj",
       "projectName": "Task_5",
-      "projectPath": "D:\\TCPP-Daniliyk-MainProject\\Task_5\\Task_5\\Task_5.csproj",
+      "projectPath": "D:\\Miro\\TCPP-Daniliyk-MainProject\\Task_5\\Task_5\\Task_5.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\TCPP-Daniliyk-MainProject\\Task_5\\Task_5\\obj\\",
+      "outputPath": "D:\\Miro\\TCPP-Daniliyk-MainProject\\Task_5\\Task_5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
